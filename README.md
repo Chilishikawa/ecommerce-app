@@ -1,6 +1,6 @@
-# Ecommerce-App
+# Ecommerce App
 
-El proyecto es una solución de API RESTFULL y está estructurado en una arquitectura de 3 capas:
+El proyecto es una solución de backend API RESTFULL para un Ecommerce y está estructurado en una arquitectura de 3 capas:
 
 - Api
 - Core
